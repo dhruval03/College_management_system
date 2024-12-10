@@ -1,0 +1,36 @@
+#loader_bg
+{
+  position: absolute;
+  left: 47%;
+  top: 46%;
+  z-index: 1;
+  width: 120px;
+  height: 120px;
+  margin: -70px 0 0 -76px;
+  border: 16px;
+  border-radius: 50%;
+  border-top: 16px; 
+  
+}   
+
+.blink-animation
+{
+  animation: blink-animation 1s steps(7, start) infinite;
+  -webkit-animation: blink-animation 1s steps(7, start) infinite;
+}
+
+#myDiv
+{
+  display: none;
+  text-align: center;
+}
+  @keyframes blink-animation 
+  {
+    50%
+    {
+        opacity: 0;
+    }
+  }
+
+
+

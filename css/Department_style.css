@@ -1,0 +1,647 @@
+.single-slider {
+    background-size: cover;
+    background-position: center center;
+    background-color: #002147;
+
+}
+
+.slider-height {
+    height: 150px;
+    padding-bottom: 15px;
+    background-color: #002147;
+}
+
+.slider-content h1 {
+    font-size: 250%;
+}
+
+.slider-content nav ol li.breadcrumb-item.active {
+    font-size: 160%;
+}
+
+.slider-content nav ol li.breadcrumb-item a {
+    font-size: 115%;
+}
+
+
+
+/* IT Department Start*/
+
+/* About Department page start */
+
+/* About Department start */
+.about-IT h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -2%;
+}
+
+.about-IT p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -3%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+
+.dept-horizontal-line>hr {
+    background-color: #002147;
+    height: 5px;
+    width: 113%;
+    margin-left: -2%;
+}
+
+.Sub-horizontal-line > hr
+{
+    background-color: #002147;
+    height: 5px;
+    width: 215%;
+    margin-left: -5.5%;
+}
+
+/* About Department end */
+
+/* Vision/Mission start */
+
+.IT-Vision_Mission-area {
+    background-color: #ffffff;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+
+.IT-Vision_Mission-left-title-section h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    margin-left: 27%;
+    line-height: 1;
+    margin-bottom: 23px;
+}
+
+.IT-Vision_Mission-left-title-section ul li {
+    font-size: 100%;
+    color: #000000;
+    line-height: 30px;
+    padding-right: 28%;
+    text-justify: inter-word;
+    text-align: justify;
+     font-weight:400;
+    list-style-type: disc;
+
+}
+
+.IT-Vision_Mission-right-title-section h1 {
+    font-size: 36px;
+    color: #002147;
+    margin-left: 35%;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+}
+
+.IT-Vision_Mission-right-title-section ul li {
+    font-size: 100%;
+    color: #000000;
+    line-height: 30px;
+    padding-right: -10%;
+    text-justify: inter-word;
+    text-align: justify;
+    font-weight:400;
+    list-style-type: disc;
+    margin-top: -1%;
+
+}
+
+.IT-vertical {
+    border-left: 4px solid #002147;
+    height: 37%;
+    position: absolute;
+    left: 50%;
+    margin-top: -4%;
+}
+
+/*Vision/Mission  end */
+
+/* PEOs and PSO start */
+
+.PEO-area {
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.about-IT-PEO h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -2%;
+}
+
+.about-IT-PEO p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -3%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+
+.PSO-area {
+    padding-top: 0%;
+    padding-bottom: 2%;
+}
+
+.about-IT-PSO h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -2%;
+}
+
+.about-IT-PSO p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -3%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+    padding-bottom: 10%;
+}
+
+/* PEOs and PSO end */
+
+/* About Department page end */
+
+/* Academic Program page start */
+
+/* First part strat */
+.Border-Box {
+    border: 2px solid black;
+    padding-top: 2%;
+    width: 50%;
+    margin-left: 28%;
+}
+
+.Academic_Program-IT h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+}
+
+.Academic_Program-IT h3 {
+    font-size: 23px;
+    color: #000000;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    text-align: center;
+}
+
+.Academic_Program-IT p {
+    font-size: 18px;
+    color: #000000;
+    line-height: 1;
+    text-align: center;
+
+}
+
+/* First part end */
+
+
+/* Second part strat */
+
+.IT-Subjects-area
+{
+    background-color: #ffffff;
+    padding-top: 0%;
+    padding-bottom: 4%;
+}
+
+.IT-Subjects-left-title-section h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -4%;
+}
+
+.IT-Subjects-left-title-section > button {
+
+    font-size: 150%;
+
+    background-color: #002147;
+     margin-left: -3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    width: 70%;
+    color: #ffffff;
+}
+
+.IT-Semester-title-section > button
+{
+    
+    font-size: 130%;
+    border-radius: 10px;
+    font-weight: 400;
+    background-color: #fdc800;
+     margin-left: -3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    color: #000000;
+}
+
+.Tables > table,th,td
+{
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 115%;
+    width: 1000px;
+    align-items: center;
+    margin-left: -3%;
+}
+
+.Tables tr
+{
+    background-color: rgb(240, 240, 240);
+}
+
+.Tables th
+{
+    background-color: #002147;
+    color: #ffffff;
+}
+
+.Tables tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+.Tables {
+    margin-left:auto;
+    margin-right: auto;
+
+    
+
+}
+
+/* Academic Program page end */
+
+/* Faculty & Staff page start */
+.IT_Faculty-title h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+}
+
+
+.IT_Faculty-thumb img {
+    width: 100%;
+}
+
+.IT_Faculty-wrapper {
+    position: relative;
+}
+
+.IT_Faculty-thumb {
+    position: relative;
+    
+}
+
+.IT_Faculty_Detalis > p
+{
+   font-size: 26px;
+    color: #002147;
+    line-height: 1.5;
+    font-weight: 500;
+    padding-left: 1%;
+    margin-left: 90%;
+    margin-top: -105%;
+    margin-bottom: 108%;
+    margin-right: -11%;
+    text-align: justify;
+    width: 260%;
+    font: bold;
+
+
+}
+.IT_Faculty-horizontal-line > hr
+{
+    background-color: #002147;
+    height: 5px;
+    width: 360%;
+    margin-left: -5.5%;
+    margin-top:-85%;
+}
+
+
+/* Faculty & Staff page end */
+
+/* Time Table page start */
+.IT-dept-TT
+{
+    margin-bottom: 3%;
+    width: 100%;
+}
+
+.IT_TT-horizontal_line > hr
+{
+    background-color: #002147;
+    height: 5px;
+    width: 360%;
+    margin-left:-2%;
+    margin-top:15%;
+}
+.IT_TT-title > h1
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+    width: 300%;
+}
+
+
+/* Time Table page end */
+
+/* Newsletter page start */
+.IT-dept-Newsletter
+{
+    margin-bottom: 3%;
+    width: 100%;
+}
+
+.IT_Newsletter-horizontal_line > hr
+{
+    background-color: #002147;
+    height: 5px;
+    width: 360%;
+    margin-left:-2%;
+    margin-top:15%;
+}
+.IT_Newsletter-title > h1
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+    width: 300%;
+}
+.IT_Newsletter-title > h4
+{
+    font-size: 25px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+    width: 300%;
+}
+
+
+/* Newsletter page end */
+
+
+/* Publication page start */
+
+.IT-dept-Publication
+{
+    margin-bottom: 3%;
+    width: 100%;
+}
+.Research_papers>h3{
+    text-align: center;
+    background-color: #002147;
+    /* border: 6px solid #002147; */
+    color:#fff;
+    /* box-shadow: 10px 10px 3px 3px #fdc800; */
+}
+
+.Publication_horizontal-line > hr
+{
+    background-color: #002147;
+    height: 5px;
+    width: 370%;
+    margin-left:2%;
+    margin-top:8%;
+    margin-bottom:8% ;
+}
+.IT_Publication-title > h1
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+    width: 300%;
+}
+.IT_Publication-title > h4
+{
+    font-size: 25px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+    width: 300%;
+}
+.Publication{
+    margin-right:30%;
+    padding: auto;
+}
+ #c1{
+    margin-right:-350%;
+    margin-left:-11%;
+ }
+ #c2{
+    margin-right: -301%;
+    margin-left: -3%;
+ }
+.card-body  {
+    margin-right:70;
+    width: 100%;
+    
+}
+
+/* .button-1>button{
+    color:#fff;
+    font-size: 150%;
+    border-radius: 0px;
+    background-color: #002147;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: auto;
+    padding-bottom: auto;
+    text-align: center;
+    width: auto;
+} */
+
+/* Publication page end */
+
+/* Gallery page start */
+
+
+
+button {
+  cursor: pointer;
+}
+
+#portfolio {
+  width: 100%;
+  min-height: 100vh;
+  background: #ffffff;
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(320px, 1fr));
+  grid-template-rows: repeat(9, minmax(220px, 1fr));
+  grid-gap: 20px;
+}
+
+.project {
+  position: relative;
+  width: auto;
+  background: #ffffff;
+  overflow: hidden;
+}
+.project img {
+  position: absolute;
+  width:50%;
+  padding-left: 55%;
+  margin-left: -39%;
+  opacity: 0.9;
+}
+.project p {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  color:#000;
+  padding: 1em 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  z-index: 3;
+}
+.project .grid__title {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  white-space: nowrap;
+  bottom: 0;
+  font-weight: 100;
+  font-size: 0.8em;
+  z-index: 3;
+  text-transform: uppercase;
+  color: #000;
+  letter-spacing: 2px;
+}
+
+.project:hover .grid__overlay {
+  transform: translateY(0%);
+}
+
+.grid__overlay {
+  background: rgba(241, 214, 12, 0.449);
+  height: 100%;
+  grid-column: 1/-1;
+  grid-row: 1/-1;
+  position: relative;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  transform: translateY(101%);
+  transition: all 0.3s ease-in-out;
+}
+.grid__overlay button {
+  background: #002147;
+  outline: none;
+  font-weight: 100;
+  letter-spacing: 2px;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  text-transform: uppercase;
+  padding: 10px;
+  z-index: 0.9;
+}
+.grid__overlay button:hover {
+  transition: all 0.3s ease-in-out;
+  background: #ffffff;
+  color: #000;
+  transform: scale(1.05);
+} 
+
+.overlay {
+  position: fixed;
+  background: rgba(184, 149, 149, 0.7);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+  z-index: 3;
+}
+
+.overlay.open {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+.overlay__inner {
+  background: #ffffff;
+  width: 700px;
+  padding: 20px;
+  position: relative;
+  opacity: 1;
+}
+
+.close {
+  position: absolute;
+  top: 3px;
+  right: 10px;
+  background: none;
+  outline: 0;
+  color: #474545;
+  border: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.close:hover {
+  color: #eccdca;
+}
+
+.project__image {
+  margin-left: -50%;
+}
+
+
+/* gallery page end */
+
+
+/* IT Department end*/

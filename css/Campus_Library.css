@@ -1,0 +1,99 @@
+
+.single-slider {
+    background-size: cover;
+    background-position: center center;
+    background-color: #002147;
+    
+}
+
+.slider-height 
+{
+    height: 150px;
+    padding-bottom: 15px;
+    background-color: #002147;
+}
+
+.slider-content h1 {
+    font-size: 250%;
+}
+
+.slider-content nav ol li.breadcrumb-item.active
+{
+    font-size: 160%;
+}
+.slider-content nav ol li.breadcrumb-item a
+{
+    font-size: 115%;
+}
+
+
+
+/* IT Department Start*/
+
+/* About Department page start */
+
+/* About Department start */
+.Campus_Library-IT h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -2%;
+}
+
+.Campus_Library-IT p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -3%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+
+.Campus_Library-horizontal-line>hr {
+    background-color: #002147;
+    height: 5px;
+    width: 102%;
+    margin-left: -2%;
+}
+
+.Sub-horizontal-line > hr
+{
+    background-color: #002147;
+    height: 5px;
+    width: 215%;
+    margin-left: -5.5%;
+}
+.Campus_Library_table > table,th,td 
+{
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 160%;
+    width: 350px;
+}
+
+.Campus_Library_table tr
+{
+    background-color: rgb(240, 240, 240);
+}
+
+.Campus_Library_table th
+{
+    background-color: #002147;
+    color: #ffffff;
+}
+
+.Campus_Library_table tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+.Campus_Library_table {
+    margin-left: auto;
+    margin-right: auto;
+}

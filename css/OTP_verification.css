@@ -1,0 +1,148 @@
+/* OTP entry  */
+
+#enter_OTP_card {
+    box-shadow: 0px 0px 7px 7px #000000;
+    width: 115%;
+    height: 30%;
+    background-color: #ffffff;
+    margin-left: 190%;
+    margin-top: 80%;
+    padding: 2%;
+    border-radius: 30px;
+}
+
+#enter_OTP_card #Email_OTP
+{
+    padding: 10%;
+    font-family: "Asap", sans-serif;
+    display: block;
+    color: #000000;
+    font-size: 110%;
+    background: #ffffff;
+    width: 90%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: 5% 2.5% 5% 5.5%;
+    border-radius: 20px;
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+#Submit_OTP {
+    font-family: sans-serif;
+    cursor: pointer;
+    color: #fff;
+    font-size: 110%;
+    text-transform: uppercase;
+    width: 31%;
+    padding: 10px 0;
+    margin-top: 13%;
+    margin-left: 33%;
+    border-radius: 5px;
+    background-color: #002147;
+}
+
+#Submit_OTP:hover {
+    background-color: #FDC800;
+    color: black;
+
+}
+.OTP
+{
+    width: 20%;
+}
+.error-text{
+    background: #F8D7DA;
+    padding: 2% 5%;
+    border-radius: 5px;
+    color: #8B3E46;
+    border: 1px solid #F5C6CB;
+    display: none;
+    font-size: 120%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 2%;
+  }
+.error-text.matched{
+    background: #D4EDDA;
+    color: #588C64;
+    border-color: #C3E6CB;
+}
+
+/* popup & blur*/
+.enter_OTP#blur.active {
+    filter: blur(20px);
+    pointer-events: none;
+    user-select: none;
+}
+#popup {
+    top: 40%;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s;
+} 
+
+#popup.active {
+    top: 50%;
+    visibility: visible;
+    opacity: 1;
+    transition: 0.5s;
+}
+
+/* Paasword change */
+#change_pass_card {
+    box-shadow: 0px 0px 7px 7px #000000;
+    width: 25.7%;
+    height: 40%;
+    background-color: #ffffff;
+    margin-left: 35%;
+    margin-top: -19.5%;
+    padding: 2%;
+    border-radius: 30px;
+}
+#change_pass_card #new_pass,
+#confirm_pass {
+    padding: 10%;
+    font-family: "Asap", sans-serif;
+    display: block;
+    color: #000000;
+    font-size: 110%;
+    background: #ffffff;
+    width: 90%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: 5% 2.5% 7% 5.5%;
+    border-radius: 20px;
+}
+#change_pass {
+    color: #fff;
+    font-size: 122%;
+    width: 41%;
+    font-weight: 500;
+    padding: 10px 0;
+    margin-top: 5%;
+    margin-left: 21%;
+    border-radius: 5px;
+    background-color: #002147;
+    position: absolute;
+}
+
+#change_pass:hover {
+    background-color: #FDC800;
+    color: black;
+}
+#error{
+    background: #F8D7DA;
+    padding: 2% 5%;
+    border-radius: 5px;
+    color: #8B3E46;
+    border: 1px solid #F5C6CB;
+    display: block;
+    font-size: 120%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 2%;
+  }
+#error.matched{
+    background: #D4EDDA;
+    color: #588C64;
+    border-color: #C3E6CB;
+}

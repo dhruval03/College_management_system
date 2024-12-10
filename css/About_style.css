@@ -1,0 +1,1354 @@
+
+.single-slider {
+    background-size: cover;
+    background-position: center center;
+    background-color: #002147;
+    
+}
+
+.slider-height 
+{
+    height: 150px;
+    padding-bottom: 15px;
+    background-color: #002147;
+}
+
+.slider-content h1 {
+    font-size: 250%;
+}
+
+.slider-content nav ol li.breadcrumb-item.active
+{
+    font-size: 160%;
+}
+.slider-content nav ol li.breadcrumb-item a
+{
+    font-size: 115%;
+}
+/*About us page start*/
+/* First Part Start*/
+
+.about-area1
+{
+    background-color: #ffffff;
+}
+.first_img > img
+{
+    margin-left: -35%;
+    margin-top: -1%;
+    width: 90%;
+    border:4px solid #000000;
+    border-radius: 6% ;
+    text-align: left;
+}
+
+.about-title-section1 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -8%;
+}
+
+.about-title-section1 p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -9%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+/* First Part End*/
+
+.horizontal-line > hr
+{
+    background-color: #002147;
+    height: 5px;
+    width: 95%;
+    margin-left: 3%;
+}
+
+/* sconde Part Start*/
+
+.about-title-section2 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -5%;
+}
+
+.about-title-section2 p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 0.8%;
+    margin-left: -9%;
+    margin-right: -9%;
+    text-align: justify;
+    text-indent: 7%;
+}
+.about-area2
+{
+    background-color: #ffffff;
+}
+/* Second Part End*/
+
+
+/* Vision/Mission start */
+
+.About_Vision_Mission-area
+{
+    background-color: #ffffff;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.About_Vision_Mission-left-title-section h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    margin-left: 27%;
+    line-height: 1;
+    margin-bottom: 23px;
+}
+
+.About_Vision_Mission-left-title-section ul li{
+    font-size: 120%;
+    color: #000000;
+    line-height: 30px;
+    padding-right: 28%;
+    text-justify: inter-word;
+    text-align: justify;
+    font-weight: bold;
+    list-style-type: disc;
+    
+}
+.About_Vision_Mission-right-title-section h1 {
+    font-size: 36px;
+    color: #002147;
+    margin-left: 35%;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+}
+
+.About_Vision_Mission-right-title-section ul li {
+    font-size: 120%;
+    color: #000000;
+    line-height: 30px;
+    padding-right: -10%;
+    text-justify: inter-word;
+    text-align: justify;
+    font-weight: bold;
+    list-style-type: disc;
+    margin-top: -1%;
+    
+}
+.About_vertical
+{
+    border-left: 4px solid #002147;
+    height: 45%;
+    position:absolute;
+    left: 50%;
+    margin-top:-0.8%;
+}
+
+
+/*Vision/Mission  end */
+/*About us page end*/
+
+
+/*Anti-ragging page start*/
+
+/* First Part Start*/
+
+.Anti_Ragging-area1 
+{
+    background-color: #ffffff;
+}
+.Anti_Ragging_img > img
+{
+    margin-left: -35%;
+    margin-top: 32%;
+    width: 150%;
+    border:4px solid #000000;
+    border-radius: 6% ;
+    text-align: left;
+}
+
+.Anti_Ragging-title-section1 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: 9%;
+}
+
+.Anti_Ragging-title-section1 p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: 8%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+.Anti_Ragging-title-section2 p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 13.5%;
+    margin-left: -58%;
+    /* margin-right: -11%; */
+    text-align: justify;
+    text-indent: 0%;
+}
+.Anti_Ragging-title-section2 li {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -64%;
+    /* margin-right: -11%; */
+    text-align: justify;
+    text-indent: 7%;
+}
+/* First Part End*/
+
+.horizontal-line > hr
+{
+    background-color: #002147;
+    height: 5px;
+    width: 95%;
+    margin-left: 3%;
+}
+
+/* sconde Part Start*/
+.Anti_Ragging-links-section3 ol >li {
+    font-size: 160%;
+    color: #000000;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -10.5%;
+   
+    
+}
+.Anti_Ragging-links-section3 ul >li {
+    font-size: 120%;
+    color: #000000;
+    font-weight: 600;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -3%;
+    list-style-type:circle;
+    
+}
+.Anti_Ragging-area2
+{
+    background-color: #ffffff;
+}
+/* Second Part End*/
+
+
+/* table start */
+
+.Anti_Ragging-links-section4 > h1
+ {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    
+    width: 100%;
+
+    }
+
+.table_Anti-Ragging-area
+{
+    background-color: #ffffff;
+}
+
+.table_Anti-Ragging-area > table,th,td
+{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 130%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: -10%;
+    width: 500px;
+
+    
+}
+.table_Anti-Ragging
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.table_Anti-Ragging-area
+{
+    padding-top: 1%;
+}
+.table_Anti-Ragging-area  tr
+{
+    background-color: rgb(240,240,240);
+}
+.table_Anti-Ragging-area  th{
+    background-color: #002147;
+    color: #ffffff;
+}
+.table_Anti-Ragging-area tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+/*table  end */
+
+
+
+/*Anti-ragging page end*/
+
+
+/* SSIP page strat */
+
+/* First Part start*/
+.first_SSIP_img>img {
+    margin-left: -35%;
+    margin-top: -1%;
+    width: 90%;
+    text-align: left;
+}
+
+.about-SSIP-title-section1 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -8%;
+}
+
+.about-SSIP-title-section1 p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -9%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+
+.about-SSIP-area1 {
+    background-color: #ffffff;
+    padding-bottom: 1%;
+}
+
+/* First Part end*/
+/* Second Part start*/
+.about-SSIP-title-sectoin2>p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 0.8%;
+    margin-left: -7%;
+    margin-right: -7%;
+    text-align: justify;
+}
+.click-here-text 
+{
+    margin-left: 31%;
+    margin-bottom: -3%;
+    font-size: 190%;
+}
+/* Second Part end*/
+/* Third Part start*/
+.about-SSIP-title-section3>h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 1%;
+    margin-left: -8%;
+
+}
+
+.about-SSIP-area2 {
+    background-color: #ffffff;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.table_SSIP > table,th,td 
+{
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 160%;
+    width: 350px;
+}
+
+.table_SSIP tr
+{
+    background-color: rgb(240, 240, 240);
+}
+
+.table_SSIP th
+{
+    background-color: #002147;
+    color: #ffffff;
+}
+
+.table_SSIP tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+.table_SSIP {
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Third Part end*/
+/* Fourth Part end*/
+.about-SSIP-title-section4 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -8%;
+}
+
+.about-SSIP-title-section4 p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -9%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+
+.about-SSIP-title-section4 ul > li
+{
+    font-size: 120%;
+    color: #000000;
+    font-weight: 500;
+    line-height: -4;
+    margin-bottom: 23px;
+    margin-left: -3%;
+    list-style-type:circle;
+}
+.about-SSIP-area3 {
+    background-color: #ffffff;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+/* SSIP page end */
+
+
+/* Women Development Cell page start */
+
+/* First part start */
+
+.first_WDC_img>img {
+    margin-left: -40%;
+    margin-top: 26%;
+    width: 100%;
+    text-align: left;
+}
+
+.WDC-title-section1 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -13%;
+}
+
+.WDC-title-section1 > p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: -13.5%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+
+.WDC-area1 {
+    background-color: #ffffff;
+    padding-bottom: 1%;
+}
+
+/* First Part end*/
+
+/* Second Part start*/
+.WDC-title-sectoin2 > h1 {
+    font-size: 150%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 0.8%;
+    margin-left: 45%;
+    margin-right: 7%;
+    text-align: justify;
+    text-align: center;
+    width: 200%;
+    text-decoration: underline;
+}
+.WDC-title-sectoin2 > h3 {
+    font-size: 130%;
+    color: #000000;
+    line-height: 120%;
+    padding-left: 0.8%;
+    margin-left: 45%;
+    margin-right: 7%;
+    text-align: justify;
+    width: 200%;
+    text-align: center;
+}
+
+/* Second Part end*/
+
+/* Third part start */
+.WDC-title-section3 > h1
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -9%;
+}
+
+.WDC-title-section3 ul > li
+{
+    font-size: 110%;
+    color: #000000;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -6%;
+    list-style-type:circle;
+    width: 150%;
+}
+.WDC-area2
+{
+    padding-bottom: 2%;
+}
+
+/* Third part end */
+
+/* Fourth Part start*/
+.WDC-title-section4 > h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 1%;
+    margin-left: -8%;
+
+}
+
+.WDC-area3 {
+    background-color: #ffffff;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.table_WDC1 > table,th,td 
+{
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 100%;
+
+} 
+
+.table_WDC1 tr
+{
+    background-color: rgb(240, 240, 240);
+}
+
+.table_WDC1 th
+{
+    background-color: #002147;
+    color: #ffffff;
+}
+
+.table_WDC1 tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+.table_WDC1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    
+}
+/* Fourth Part end*/
+
+/* Fifth part start */
+
+.WDC-title-section5 > h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 1%;
+    margin-left: -8%;
+
+}
+
+.WDC-area4 {
+    background-color: #ffffff;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    width: 100%;
+}
+
+.table_WDC2 > table,th,td 
+{
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 130%;
+    width: 200px;
+}
+
+.table_WDC2 tr
+{
+    background-color: rgb(240, 240, 240);
+}
+
+.table_WDC2 th
+{
+    background-color: #002147;
+    color: #ffffff;
+}
+
+.table_WDC2 tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+.table_WDC2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Fifth part end */
+
+
+/* Sixth part start */
+
+.WDC-title-section6 > h1
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -8%;
+}
+
+.WDC-title-section6 ul > li
+{
+    font-size: 110%;
+    color: #000000;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -6%;
+    list-style-type:circle;
+    width: 150%;
+}
+.WDC-area5
+{
+    padding-bottom: 2%;
+}
+/* Sixth part end */
+
+/* Women Development Cell page end */
+
+
+/* Principal message Start*/
+.principal-msg-area
+{
+    padding-top: 9%;
+    padding-bottom: -1%;
+    
+}
+.card
+{
+    box-shadow: 0px 0px 10px 10px #6a6a6a;
+}
+.principal-msg-area > h1
+{
+    margin-left: 31%;
+    margin-top: -3%;
+    margin-bottom: 5%;
+    text-decoration: underline;
+    color: #002147;
+    
+}
+.principal-msg-img > img
+{
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 2%;
+    padding: 1% 1% 1% 1%;
+    border: 2px solid;
+    border-radius: 20px;
+    border-color:#000000 ;
+    background-color: #ffffff;
+}
+
+.principal-msg
+{
+    background-color: #f8f9fa;
+}
+
+.Principal-msg-intro-section > h3
+{
+   margin-left: 37%;
+   margin-bottom: 37%;
+   margin-top: -35%;
+    
+}
+.Principal-msg-title-section > p
+{
+    margin-top: -13%;
+    margin-bottom: 15%;
+    text-indent: 6%;
+    color: #000000;
+    text-align: justify;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-size: 130%;
+    font-family:gabrielle;
+}
+
+
+/* Principal message end*/
+
+
+/* Grievance cell Start*/
+
+.Grievance-title-section1 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+}
+.Grievance-title-section1 h3 {
+    font-size: 31px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -1%;
+}
+.Grievance-area1
+{
+    padding-top: 3%;
+    padding-bottom: -1%;
+}
+.GC_first_img>img
+{
+   
+    width: 125%;
+    border:4px solid #000000;
+    border-radius: 6% ;
+    margin-top: 30%;
+    margin-left: -32%;
+}
+
+.Grievance-title-section1 p {
+    font-size: 100%;
+    color: #000000;
+    line-height: 180%;
+    padding-left: 1%;
+    margin-left: 0%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+.Grievance-title-section1 ul > li
+{
+    font-size: 120%;
+    padding-left: 1%;
+    margin-left: 0%;
+    margin-right: -11%;
+    list-style: circle;
+}
+/* Second Part start */
+.Grievance-title-section2 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: 6%;
+    padding-bottom: 1%;
+}
+
+.table_GC > table,th,td 
+{
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 160%;
+    width: 350px;
+}
+
+.table_GC tr
+{
+    background-color: rgb(240, 240, 240);
+}
+
+.table_GC th
+{
+    background-color: #002147;
+    color: #ffffff;
+}
+
+.table_GC tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+.table_GC 
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.Grievance-area2
+{
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+/* Third Part Strat */
+.Grievance-area3
+{
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+.Grievance-title-section3 h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: 6%;
+}
+.Grievance-title-section3 p {
+    font-size: 120%;
+    color: #000000;
+    line-height: 130%;
+    padding-left: 1%;
+    margin-left: 0%;
+    margin-right: -11%;
+    text-align: justify;
+    text-indent: 7%;
+}
+
+/* Grievance cell end*/
+
+/* Right to informaton  Start*/
+
+.about-RTI-title-section1  h1 
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: 4%;
+}
+
+.about-RTI-area1 {
+    background-color: #ffffff;
+    padding-bottom: 0%;
+    padding-top: 2%;
+}
+.table_RTI > table,th,td 
+{
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 160%;
+    width: 430px;
+}
+
+.table_RTI tr
+{
+    background-color: rgb(240, 240, 240);
+}
+
+.table_RTI th
+{
+    background-color: #002147;
+    color: #ffffff;
+}
+
+.table_RTI tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+.table_RTI {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.about-RTI-title-section2 h1 
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -8%;
+}
+.about-RTI-title-section2 > p
+{
+    font-size: 190%;
+    margin-left: -7.5%;
+    color: #000000;
+}
+.about-RTI-title-section2 ul > li
+{
+    font-size: 140%;
+    color: #000000;
+    font-weight: 500;
+    line-height: -4;
+    margin-bottom: 23px;
+    margin-left: -3%;
+    list-style-type:circle;
+}
+.about-RTI-area2 {
+    background-color: #ffffff;
+    padding-bottom: 0%;
+    padding-top: 0%;
+}
+
+.about-RTI-title-section3 h1 
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -8%;
+}
+.about-RTI-title-section3 ul > li
+{
+    font-size: 140%;
+    color: #000000;
+    font-weight: 500;
+    line-height: -4;
+    margin-bottom: 23px;
+    margin-left: -3%;
+    list-style-type:circle;
+}
+.about-RTI-area3 {
+    background-color: #ffffff;
+    padding-bottom: 3%;
+    padding-top: 0%;
+}
+/* Right to informaton  Start*/
+
+
+/* Placement cell start */
+
+.PC-area1
+{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.PC-title1 > h1
+{
+    font-size: 210%;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -8%;
+}
+
+.PC-title1 > p
+{
+    font-size: 140%;
+    color: #000000;
+    margin-bottom: 23px;
+    margin-left: -7.3%;
+}
+
+.PC-title1 > h6
+{
+    font-size: 120%;
+    color: #000000;
+    margin-bottom: 23px;
+    margin-left: -6.5%;
+}
+
+.PC-img1 img {
+    width: 90%;
+}
+
+.PC-img2 img {
+    width: 90%;
+    margin-left: -26%;
+}
+.PC-img3 img {
+    width: 90%;
+    margin-left: 10%;
+}
+.team-wrapper {
+    position: relative;
+}
+.PC-img-title1 h1 {
+    font-size: 140%;
+    font-weight: 700;
+    color: #444444;
+    line-height: 1;
+    width: 100%;
+    margin-left: 1%;
+    margin-bottom: 10px;
+    
+}
+
+.PC-img-title1 h2 {
+    font-size: 18px;
+    color: #8a8a8a;
+    line-height: 1;
+    margin-left: 32%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.PC-img-title1 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-bottom: 3px solid #fdc800;
+    border-radius: 5px;
+    width: 90%;
+    transition: .6s;
+} 
+.col-xl-3.col-lg-6.col-md-3
+{
+    margin-left: 20%;
+}
+.PC-img-title2 h1 {
+    font-size: 140%;
+    font-weight: 700;
+    color: #444444;
+    line-height: 1;
+    width: 100%;
+    margin-left: 6%;
+    
+}
+
+.PC-img-title2 h2 {
+    font-size: 18px;
+    color: #8a8a8a;
+    line-height: 1;
+    margin-left: 29%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.PC-img-title2 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-bottom: 3px solid #fdc800;
+    border-radius: 5px;
+    width: 95.6%;
+    transition: .6s;
+    margin-left: -28.7%;
+}
+.col-xl-3.col-lg-5.col-md-4
+{
+    margin-left: 5%;
+}
+.PC-img-title3 h1 {
+    font-size: 140%;
+    font-weight: 700;
+    color: #444444;
+    margin-left: -0%;
+    padding-left: -70%;
+   
+}
+
+.PC-img-title3 h2 {
+    font-size: 18px;
+    color: #8a8a8a;
+    line-height: 1;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    padding-right: -100%;
+    margin-left: 22%;
+}
+
+.PC-img-title3 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-bottom: 3px solid #fdc800;
+    border-radius: 5px;
+    width: 90%;
+    transition: .6s;
+   padding-right: -20%;
+   margin-left: 13%;
+}
+
+/* table start */
+
+.PC-table-section > h1
+ {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    width: 100%;
+    margin-left: -7%;
+
+    }
+
+.table_PC-area
+{
+    background-color: #ffffff;
+}
+
+.table_PC-area p
+{
+    padding-top: 1%;
+    font-size: 155%;
+    color: #000000;
+    font-weight: 600;
+    line-height: 80%;
+}
+
+.table_PC-area > table,th,td
+{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 130%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: -10%;
+    width: 500px;
+
+    
+}
+.table_PC
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.table_PC-area
+{
+    padding-top: 1%;
+}
+.table_PC-area  tr
+{
+    background-color: rgb(240,240,240);
+}
+.table_PC-area  th{
+    background-color: #002147;
+    color: #ffffff;
+}
+.table_PC-area tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+/*table  end */
+
+.about-PC-title-section h1 
+{
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    margin-left: -8%;
+}
+.about-PC-title-section > p
+{
+    font-size: 190%;
+    margin-left: -7.5%;
+    color: #000000;
+}
+.about-PC-title-section ul > li
+{
+    font-size: 140%;
+    color: #000000;
+    font-weight: 600;
+    line-height: -4;
+    margin-bottom: 23px;
+    margin-left: -3%;
+    list-style-type:circle;
+}
+.PC-area3 {
+    background-color: #ffffff;
+    padding-bottom: 4%;
+    padding-top: 0%;
+}
+
+/* Vision/Mission start */
+
+.PC_Vision_Mission-area
+{
+    background-color: #ffffff;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.PC_Vision_Mission-left-title-section h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    margin-left: 27%;
+    line-height: 1;
+    margin-bottom: 23px;
+}
+
+.PC_Vision_Mission-left-title-section ul li{
+    font-size: 120%;
+    color: #000000;
+    line-height: 30px;
+    padding-right: 28%;
+    text-justify: inter-word;
+    text-align: justify;
+    font-weight: bold;
+    list-style-type: disc;
+    
+}
+.PC_Vision_Mission-right-title-section h1 {
+    font-size: 36px;
+    color: #002147;
+    margin-left: 35%;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+}
+
+.PC_Vision_Mission-right-title-section ul li {
+    font-size: 120%;
+    color: #000000;
+    line-height: 30px;
+    padding-right: -10%;
+    text-justify: inter-word;
+    text-align: justify;
+    font-weight: bold;
+    list-style-type: disc;
+    margin-top: -1%;
+    
+}
+.PC_vertical
+{
+    border-left: 4px solid #002147;
+    height: 53%;
+    position:absolute;
+    left: 50%;
+    margin-top:-0.8%;
+}
+
+
+/*Vision/Mission  end */
+
+/* table2 start */
+
+.PC-table2-section > h1
+ {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    width: 100%;
+    margin-left: -1%;
+
+    }
+
+.table2_PC-area
+{
+    background-color: #ffffff;
+    padding-bottom: 6%;
+    
+}
+
+.table2_PC-area p
+{
+    padding-top: 1%;
+    font-size: 155%;
+    color: #000000;
+    font-weight: 600;
+    line-height: 80%;
+}
+
+.table2_PC-area > table,th,td
+{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 130%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: -10%;
+    width: 500px;
+
+    
+}
+.table2_PC
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2%;
+}
+.table2_PC-area
+{
+    padding-top: 1%;
+}
+.table2_PC-area  tr
+{
+    background-color: rgb(240,240,240);
+}
+.table2_PC-area  th{
+    background-color: #002147;
+    color: #ffffff;
+}
+.table2_PC-area tr:nth-child(even)
+{
+    background-color: #ffffff;
+}
+
+/*table2  end */
+
+
+/* PLacement cell end */
+
+
+
+
+

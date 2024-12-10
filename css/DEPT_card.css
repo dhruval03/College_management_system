@@ -1,0 +1,49 @@
+.card {
+    box-shadow: 0px 0px 5px 5px #6a6a6a;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    margin-left: -37%;
+    margin-right: 9%;
+    padding-right: 20%;
+    padding-bottom: 4%;
+    position:static;
+}
+
+.IT-dept {
+    background-color: #ffffff;
+   
+}
+.IT-dept-Faculty
+{
+    margin-bottom: -13%;
+}
+
+/* .dept-area
+{
+    padding-top: 9%;
+    padding-bottom: 9%;
+    
+} */
+
+.dept-area>button {
+
+    font-size: 150%;
+    border-radius: 30px;
+    background-color: #002147;
+    margin-left: 15%;
+    margin-top: 6%;
+    margin-bottom: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+    text-align: center;
+    width: 90%;
+}
+
+.dept-area>button>a {
+    color: #ffffff;
+}
+
+.dept-area>button>a:hover {
+    color: #fdc800;
+}

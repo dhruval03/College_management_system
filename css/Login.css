@@ -1,0 +1,225 @@
+
+.login#blur.active {
+    filter: blur(10px);
+    pointer-events: none;
+    user-select: none;
+}
+
+.login
+{
+    overflow: hidden;
+    background-color:#ffffff;
+    padding-top: 12%;
+    padding-bottom: 4%;
+
+    border-radius: 30px;
+    position: absolute;
+    top: 14%;
+    left: 37%;
+    width: 400px;
+    border: 2px solid #000000;
+    box-shadow: 0px 0px 10px 10px #FDC800;
+}
+ .login > input {
+    font-family: "Asap", sans-serif;
+    display: block;
+    color: black;
+    font-size: 16px;
+    background: rgb(255, 255, 255);
+    width: 82%;
+    
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 10%;
+    margin: 3% 2.5% 5% 9%;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+
+    
+} 
+.login_btn
+{
+    background-color: #ffffff;
+}
+
+.login_btn > input
+ {
+    font-family: "Asap", sans-serif;
+    cursor: pointer;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    width: 90px;
+    font-weight: 500;
+    padding: 10px 0;
+    margin-top: 10%;
+    margin-left: 38%;
+    border-radius: 5px;
+    background-color: #002147;
+}
+
+.login_btn > input:hover {
+    background-color: #FDC800;
+    color: black;
+    
+  }
+
+#logo
+{
+    width: 30%;
+    margin-left: 33%;
+    margin-top: -39%;
+    padding: 1% 1% 1% 1%;
+    border: 2px solid;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 5px #FDC800;
+    border-color:#FDC800 ;
+    background-color: #ffffff;
+}
+.login > h3
+{
+    background-color: #ffffff;
+    font-size: 250%;
+    margin-top: -3%;
+    font-weight:200;
+    text-align: center;
+    font-family: algerian;
+
+}
+
+.user_icon
+{
+    width: 6%;
+    position: absolute;
+    margin-top: -30%;
+    margin-left: 10%;
+}
+.pwd_icon
+{
+    width: 5%;
+    background-color: #ffffff;
+    
+    margin-top: -15%;
+
+    margin-left: 10.5%;
+    margin-bottom: 1%;
+}
+.login > select
+{
+    font-family: "Asap", sans-serif;
+    display: block;
+    color: #000000; 
+    font-size: 99%;
+    background: #ffffff;
+    width: 82.5%;
+    border:20px solid #000000;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    margin: 0% 0% 0% 9%;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+.login > select > option
+{
+    background-color: #ffffff;
+}
+/* Email Entry  */
+.login > a
+ {  
+    background-color: #ffffff;
+    font-size: 105%;
+    margin-left: 34%;
+    color: #002147;
+}
+
+.login > a:hover {
+    color:#fdc800;
+  }
+
+
+#enter_email_card {
+    box-shadow: 0px 0px 7px 7px #000000;
+    width: 115%;
+    height: 30%;
+    background-color: #ffffff;
+    margin-left: 192%;
+    margin-top: 83%;
+    padding: 2%;
+    border-radius: 30px;
+}
+
+#enter_email_card #Email_id
+{
+    padding: 10%;
+    font-family: "Asap", sans-serif;
+    /* display: block; */
+    color: #000000;
+    font-size: 110%;
+    background: #ffffff;
+    width: 90%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: 5% 2.5% 5% 5.5%;
+    border-radius: 20px;
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+#Send_otp {
+    font-family: sans-serif;
+    cursor: pointer;
+    color: #fff;
+    font-size: 110%;
+    text-transform: uppercase;
+    width: 31%;
+    padding: 10px 0;
+    margin-top: 13%;
+    margin-left: 33%;
+    border-radius: 5px;
+    background-color: #002147;
+}
+
+#Send_otp:hover {
+    background-color: #FDC800;
+    color: black;
+
+}
+.pass_chang
+{
+    width: 20%;
+}
+
+#popup {
+    top: 40%;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s;
+} 
+
+#popup.active {
+    top: 50%;
+    visibility: visible;
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.error-text{
+    background: #F8D7DA;
+    padding: 2% 5%;
+    border-radius: 5px;
+    color: #8B3E46;
+    border: 1px solid #F5C6CB;
+    display: none;
+    font-size: 120%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 2%;
+  }
+.error-text.matched{
+    background: #D4EDDA;
+    color: #588C64;
+    border-color: #C3E6CB;
+}
+

@@ -1,0 +1,85 @@
+* about */
+.about-title-section h1 {
+    font-size: 36px;
+    color: #002147;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+}
+
+.about-title-section p {
+    font-size: 18px;
+    color: #be0505;
+    line-height: 30px;
+    padding-right: 82px;
+}
+
+.about-right-img {
+    text-align: right;
+
+}
+
+.about-img img {
+    width: 100%;
+}
+
+.about-title-section-2 h1 {
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+.about-title-section-2 p {
+    padding-right: 0;
+}
+
+.about-content-2 p {
+    padding-right: 84px;
+}
+
+/* .university-banner img {
+    width: 100%;
+} */
+
+/* .feature-wrapper {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	border-left: 5px solid #fdc800;
+	padding-right: 23px;
+	background-color: rgb(255, 255, 255);
+	box-shadow: 0px 10px 30px 0px rgba(115, 115, 115, 0.1);
+     width: 323px;
+	margin-right: 25px;
+}
+
+.feature-title-heading h3 {
+    font-size: 20px;
+    color: #002147;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1;
+}
+
+.feature-title-heading {
+    position: relative;
+}
+
+.feature-title-heading span {
+    position: absolute;
+    top: -4px;
+    right: 0;
+    font-size: 30px;
+    color: #8a8a8a;
+    opacity: 0.25;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 30px;
+}
+
+.feature-text p {
+    font-size: 14px;
+    color: #8a8a8a;
+    margin-bottom: 0;
+    line-height: 30px;
+    margin-top: 16px;
+} */
